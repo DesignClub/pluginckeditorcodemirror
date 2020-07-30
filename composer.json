@@ -1,0 +1,5 @@
+{
+    "name": "ckeditor/plugin-codemirror",
+    "type": "ckeditor-plugin",
+    "require": {}
+}
